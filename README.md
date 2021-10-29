@@ -15,3 +15,8 @@ if (aMerceariaTemOvosParaVender = true)
 Compra = 10 salsichas
 }
 
+
+##Piadoca 2
+```
+SELECT finger FROM hand WHERE id = 3;
+```
