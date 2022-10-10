@@ -1,6 +1,6 @@
 ## Repositorio com as melhores~piores~ piadas dev 🤪
 
-##Piadoca 1
+### Piadoca 1
 
 A esposa pede ao marido, um programador, para ir à mercearia e diz:
 - Compre duas salsichas e, se eles tiverem ovos, compre 10.
@@ -15,8 +15,9 @@ if (aMerceariaTemOvosParaVender = true)
 Compra = 10 salsichas
 }
 
+---
 
-##Piadoca 2
+### Piadoca 2
 ```
 SELECT finger FROM hand WHERE id = 3;
 ```
